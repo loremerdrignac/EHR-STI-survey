@@ -1,0 +1,200 @@
+﻿Variable;Dictionary;Label
+specialistservices;yndnk;A - Dedicated specialist services (e.g., STI clinics)
+speplanuse;yndnk;Do you plan to use this data source for this project?
+hospital;yndnk;B - Hospital
+hospitalspecify;;If yes, please specify the services contributing (e.g. Urology, antenatal, obstetrics and gynaecology):
+hosplanuse;yndnk;Do you plan to use this data source for this project?
+phpc;yndnk;C - Primary health care, General practitioner
+phplanuse;yndnk;Do you plan to use this data source for this project?
+private;yndnk;D - Private healthcare providers
+privplanuse;yndnk;Do you plan to use this data source for this project?
+onlineservices;yndnk;E - On-line STI self-testing and self-sampling services
+onlplanuse;yndnk;Do you plan to use this data source for this project?
+lab;yndnk;F - Laboratories
+labspecify;;"If yes, please specify the type of laboratories (e.g., local / community; Hospital-based; National reference laboratory):"
+labplanuse;yndnk;Do you plan to use this data source for this project?
+other;yndnk;G - Other services (e.g., NGO, community services, etc)
+otherpecify;;Please specify:
+othplanuse;yndnk;Do you plan to use this data source for this project?
+spefrequency;freq;1. What is the frequency at which the data could be extracted?
+specoverage;geo2;2. Is the EHR system of this given healthcare service national, regional or local (i.e., one or a few hospitals)?
+specoveragemore;yndnk;If regional or local, are there more than one system in the country for this service (i.e., one system for each region / for each site)?
+specoveragemoreinteropera;yndnk;If yes, are these regional / local systems standardised (i.e., interoperable)?
+speroportion;proportion;3. What proportion of gonorrhoea cases nationally each year are diagnosed in the given healthcare service (a rough estimate is acceptable)
+speagesex;yndnk;Age and sex
+speagesexcomp;completeness;If yes, is completeness
+spesymptoms;yndnk;STI syndrome / symptoms
+spesymptomscomp;completeness;If yes, is completeness
+spesiteinfection;yndnk;Site of infection (i.e., oral, anal, genital)
+spesiteinfectioncomp;completeness;If yes, is completeness
+spelabconf;yndnk;Laboratory confirmation
+spelabconfcomp;completeness;If yes, is completeness
+speamr;yndnk;Antimicrobial resistance
+speamrcomp;completeness;If yes, is completeness
+spetransmission;yndnk;Transmission group
+spetransmissioncomp;completeness;If yes, is completeness
+spehiv;yndnk;HIV status
+spehivcomp;completeness;If yes, is completeness
+spepregnancy;yndnk;Pregnancy
+spepregnancycomp;completeness;If yes, is completeness
+speclinlab;yposndnk;5. If clinical and laboratory data are available electronically in separate databases, is there a possibility to link the clinical with laboratory data (i.e., using an identifier such as patient ID)?
+speobstacleassessing;;
+speobstaclereporting;;
+specomment;;Any comment related to the data sources of interest
+hosfrequency;freq;1. What is the frequency at which the data could be extracted?
+hoscoverage;geo2;2. Is the EHR system of this given healthcare service national, regional or local (i.e., one or a few hospitals)?
+hoscoveragemore;yndnk;If regional or local, are there more than one system in the country for this service (i.e., one system for each region / for each site)?
+hoscoveragemoreinteropera;yndnk;If yes, are these regional / local systems standardised (i.e., interoperable)?
+hosproportion;proportion;3. What proportion of gonorrhoea cases nationally each year are diagnosed in the given healthcare service (a rough estimate is acceptable)
+hosagesex;yndnk;Age and sex
+hosagesexcomp;completeness;If yes, is completeness
+hossymptoms;yndnk;STI syndrome / symptoms
+hossymptomscomp;completeness;If yes, is completeness
+hossiteinfection;yndnk;Site of infection (i.e., oral, anal, genital)
+hossiteinfectioncomp;completeness;If yes, is completeness
+hoslabconf;yndnk;Laboratory confirmation
+hosabconfcomp;completeness;If yes, is completeness
+hosamr;yndnk;Antimicrobial resistance
+hosamrcomp;completeness;If yes, is completeness
+hostransmission;yndnk;Transmission group
+hostransmissioncomp;completeness;If yes, is completeness
+hoshiv;yndnk;HIV status
+hoshivcomp;completeness;If yes, is completeness
+hospregnancy;yndnk;Pregnancy
+hospregnancycomp;completeness;If yes, is completeness
+hosclinlab;yposndnk;5. If clinical and laboratory data are available electronically in separate databases, is there a possibility to link the clinical with laboratory data (i.e., using an identifier such as patient ID)?
+hosobstacleassessing;;
+hosobstaclereporting;;
+hoscomment;;Any comment related to the data sources of interest
+phfrequency;freq;1. What is the frequency at which the data could be extracted?
+phcoverage;geo2;2. Is the EHR system of this given healthcare service national, regional or local (i.e., one or a few hospitals)?
+phcoveragemore;yndnk;If regional or local, are there more than one system in the country for this service (i.e., one system for each region / for each site)?
+phcoveragemoreinteropera;yndnk;If yes, are these regional / local systems standardised (i.e., interoperable)?
+phproportion;proportion;3. What proportion of gonorrhoea cases nationally each year are diagnosed in the given healthcare service (a rough estimate is acceptable)
+phagesex;yndnk;Age and sex
+phagesexcomp;completeness;If yes, is completeness
+phsymptoms;yndnk;STI syndrome / symptoms
+phsymptomscomp;completeness;If yes, is completeness
+phsiteinfection;yndnk;Site of infection (i.e., oral, anal, genital)
+phsiteinfectioncomp;completeness;If yes, is completeness
+phlabconf;yndnk;Laboratory confirmation
+phabconfcomp;completeness;If yes, is completeness
+phamr;yndnk;Antimicrobial resistance
+phamrcomp;completeness;If yes, is completeness
+phtransmission;yndnk;Transmission group
+phtransmissioncomp;completeness;If yes, is completeness
+phhiv;yndnk;HIV status
+phhivcomp;completeness;If yes, is completeness
+phpregnancy;yndnk;Pregnancy
+phpregnancycomp;completeness;If yes, is completeness
+phclinlab;yposndnk;5. If clinical and laboratory data are available electronically in separate databases, is there a possibility to link the clinical with laboratory data (i.e., using an identifier such as patient ID)?
+phobstacleassessing;;
+phobstaclereporting;;
+phcomment;;Any comment related to the data sources of interest
+privfrequency;freq;1. What is the frequency at which the data could be extracted?
+privcoverage;geo2;2. Is the EHR system of this given healthcare service national, regional or local (i.e., one or a few hospitals)?
+privcoveragemore;yndnk;If regional or local, are there more than one system in the country for this service (i.e., one system for each region / for each site)?
+privcoveragemoreinteroper;yndnk;If yes, are these regional / local systems standardised (i.e., interoperable)?
+privproportion;proportion;3. What proportion of gonorrhoea cases nationally each year are diagnosed in the given healthcare service (a rough estimate is acceptable)
+privagesex;yndnk;Age and sex
+privagesexcomp;completeness;If yes, is completeness
+privsymptoms;yndnk;STI syndrome / symptoms
+privsymptomscomp;completeness;If yes, is completeness
+privsiteinfection;yndnk;Site of infection (i.e., oral, anal, genital)
+privsiteinfectioncomp;completeness;If yes, is completeness
+privlabconf;yndnk;Laboratory confirmation
+privabconfcomp;completeness;If yes, is completeness
+privamr;yndnk;Antimicrobial resistance
+privamrcomp;completeness;If yes, is completeness
+privtransmission;yndnk;Transmission group
+privtransmissioncomp;completeness;If yes, is completeness
+privhiv;yndnk;HIV status
+privhivcomp;completeness;If yes, is completeness
+privpregnancy;yndnk;Pregnancy
+privpregnancycomp;completeness;If yes, is completeness
+privclinlab;yposndnk;5. If clinical and laboratory data are available electronically in separate databases, is there a possibility to link the clinical with laboratory data (i.e., using an identifier such as patient ID)?
+privobstacleassessing;;
+privobstaclereporting;;
+privcomment;;Any comment related to the data sources of interest
+onlfrequency;freq;1. What is the frequency at which the data could be extracted?
+onlcoverage;geo2;2. Is the EHR system of this given healthcare service national, regional or local (i.e., one or a few hospitals)?
+onlcoveragemore;yndnk;If regional or local, are there more than one system in the country for this service (i.e., one system for each region / for each site)?
+onlcoveragemoreinteropera;yndnk;If yes, are these regional / local systems standardised (i.e., interoperable)?
+onlproportion;proportion;3. What proportion of gonorrhoea cases nationally each year are diagnosed in the given healthcare service (a rough estimate is acceptable)
+onlagesex;yndnk;Age and sex
+onlagesexcomp;completeness;If yes, is completeness
+onlsymptoms;yndnk;STI syndrome / symptoms
+onlsymptomscomp;completeness;If yes, is completeness
+onlsiteinfection;yndnk;Site of infection (i.e., oral, anal, genital)
+onlsiteinfectioncomp;completeness;If yes, is completeness
+onllabconf;yndnk;Laboratory confirmation
+onlabconfcomp;completeness;If yes, is completeness
+onlamr;yndnk;Antimicrobial resistance
+onlamrcomp;completeness;If yes, is completeness
+onltransmission;yndnk;Transmission group
+onltransmissioncomp;completeness;If yes, is completeness
+onlhiv;yndnk;HIV status
+onlhivcomp;completeness;If yes, is completeness
+onlpregnancy;yndnk;Pregnancy
+onlpregnancycomp;completeness;If yes, is completeness
+onlclinlab;yposndnk;5. If clinical and laboratory data are available electronically in separate databases, is there a possibility to link the clinical with laboratory data (i.e., using an identifier such as patient ID)?
+onlobstacleassessing;;
+onlobstaclereporting;;
+onlcomment;;Any comment related to the data sources of interest
+labfrequency;freq;1. What is the frequency at which the data could be extracted?
+labcoverage;geo2;2. Is the EHR system of this given healthcare service national, regional or local (i.e., one or a few hospitals)?
+labcoveragemore;yndnk;If regional or local, are there more than one system in the country for this service (i.e., one system for each region / for each site)?
+labcoveragemoreinteropera;yndnk;If yes, are these regional / local systems standardised (i.e., interoperable)?
+labproportion;proportion;3. What proportion of gonorrhoea cases nationally each year are diagnosed in the given healthcare service (a rough estimate is acceptable)
+labagesex;yndnk;Age and sex
+labagesexcomp;completeness;If yes, is completeness
+labsymptoms;yndnk;STI syndrome / symptoms
+labsymptomscomp;completeness;If yes, is completeness
+labsiteinfection;yndnk;Site of infection (i.e., oral, anal, genital)
+labsiteinfectioncomp;completeness;If yes, is completeness
+lablabconf;yndnk;Laboratory confirmation
+lablabconfcomp;completeness;If yes, is completeness
+labamr;yndnk;Antimicrobial resistance
+labamrcomp;completeness;If yes, is completeness
+labtransmission;yndnk;Transmission group
+labtransmissioncomp;completeness;If yes, is completeness
+labhiv;yndnk;HIV status
+labhivcomp;completeness;If yes, is completeness
+labpregnancy;yndnk;Pregnancy
+labpregnancycomp;completeness;If yes, is completeness
+labclinlab;yposndnk;5. If clinical and laboratory data are available electronically in separate databases, is there a possibility to link the clinical with laboratory data (i.e., using an identifier such as patient ID)?
+labobstacleassessing;;
+labobstaclereporting;;
+labcomment;;Any comment related to the data sources of interest
+othfrequency;freq;1. What is the frequency at which the data could be extracted?
+othcoverage;geo2;2. Is the EHR system of this given healthcare service national, regional or local (i.e., one or a few hospitals)?
+othcoveragemore;yndnk;If regional or local, are there more than one system in the country for this service (i.e., one system for each region / for each site)?
+othcoveragemoreinteropera;yndnk;If yes, are these regional / local systems standardised (i.e., interoperable)?
+othproportion;proportion;3. What proportion of gonorrhoea cases nationally each year are diagnosed in the given healthcare service (a rough estimate is acceptable)
+othagesex;yndnk;Age and sex
+othagesexcomp;completeness;If yes, is completeness
+othsymptoms;yndnk;STI syndrome / symptoms
+othsymptomscomp;completeness;If yes, is completeness
+othsiteinfection;yndnk;Site of infection (i.e., oral, anal, genital)
+othsiteinfectioncomp;completeness;If yes, is completeness
+othlabconf;yndnk;Laboratory confirmation
+othlabconfcomp;completeness;If yes, is completeness
+othamr;yndnk;Antimicrobial resistance
+othamrcomp;completeness;If yes, is completeness
+othtransmission;yndnk;Transmission group
+othtransmissioncomp;completeness;If yes, is completeness
+othhiv;yndnk;HIV status
+othhivcomp;completeness;If yes, is completeness
+othpregnancy;yndnk;Pregnancy
+othpregnancycomp;completeness;If yes, is completeness
+othclinlab;yposndnk;5. If clinical and laboratory data are available electronically in separate databases, is there a possibility to link the clinical with laboratory data (i.e., using an identifier such as patient ID)?
+othobstacleassessing;;
+othobstaclereporting;;
+othcomment;;Any comment related to the data sources of interest
+comment;;Any comment related to the survey
+id_data;;Identifiant de la fiche
+id;;Identifiant d'utilisateur
+identifier;;Compteur
+rec_uuid;;Identifiant universel
+date_creation;;Date de création
+date_modif;;Date de modification
